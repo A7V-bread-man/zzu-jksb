@@ -24,4 +24,3 @@
 
   [1]: https://github.com/apps/pull
   
-  nb
